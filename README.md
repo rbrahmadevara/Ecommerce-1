@@ -13,6 +13,8 @@ Key Features:
 2) Products can be added to cart,wishlist through API
 3)Remove products from Cart,wishlist
 4)Added authentication using localStorage 
+5) Wishlist,cart can be accessed only if some one has logged in
+6)Login and signup pages are also placed
 
 Note:Used codesandbox an online editor for writing the code 
 
