@@ -1,0 +1,24 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0.5rem;
+}
+.nav-right a {
+  margin-left: 2rem;
+  margin-right: 0.4rem;
+  color: black;
+  padding: 0.2rem;
+}
+.nav-right a:hover {
+  background-color: black;
+  color: white;
+}
+@media screen and (max-width: 768px) {
+  .nav-right a {
+    margin-left: 0.5rem;
+    margin-right: 0.1rem;
+    color: black;
+    padding: 0.1rem;
+  }
+}

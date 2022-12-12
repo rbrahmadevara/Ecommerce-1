@@ -1,0 +1,20 @@
+.hero {
+  padding: 5rem;
+  color: tomato;
+  text-align: center;
+  width: 100%;
+  background-color: turquoise;
+}
+.linktoProducts {
+  text-align: center;
+}
+.btn-secondary {
+  margin: 1rem;
+  color: black;
+  background-color: transparent;
+}
+@media screen and (max-width: 768px) {
+  .hero {
+    width: 100%;
+  }
+}
